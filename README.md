@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java and Flutter**
 
-- 📫 How to reach me **nirdesh.singh1901@gmail.com**
+- 📫 How to reach me **ranjeetapathak13@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f7JsdfH2pEc4ZoF5yFK5cuGaB5zKpFGq/view?usp=sharing](https://drive.google.com/file/d/1V4n2VIm3yemV0dLfFmGFtikV0FM6xpVv/view?usp=sharing)
 
@@ -19,12 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nirdeshsingh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirdeshsingh10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirdesh-singh-b514061a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirdesh-singh-b514061a3" height="30" width="40" /></a>
-<a href="https://instagram.com/_nirdesh_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nirdesh_19" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nirdeshsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nirdeshsingh" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeeta-pathak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ranjeeta-pathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeeta-pathak" height="30" width="40" /></a>
+<a href="https://www.instagram.com/agathokakologicalbachi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agathokakologicalbachi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nirdesh_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nirdesh_singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1onlynirdesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1onlynirdesh" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ranjeeta13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ranjeeta13" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/1onlynirdesh/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1onlynirdesh/practice/" height="30" width="40" /></a>
 </p>
 
