@@ -22,9 +22,9 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeeta-pathak" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ranjeeta-pathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeeta-pathak" height="30" width="40" /></a>
 <a href="https://www.instagram.com/agathokakologicalbachi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agathokakologicalbachi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nirdesh_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nirdesh_singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ranjeeta_20bce71?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjeeta_20bce7188" height="30" width="40" /></a>
 <a href="https://leetcode.com/Ranjeeta13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ranjeeta13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/1onlynirdesh/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1onlynirdesh/practice/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ranjeetapathak13/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ranjeetapathak13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
