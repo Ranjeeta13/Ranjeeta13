@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **nirdesh.singh1901@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f7JsdfH2pEc4ZoF5yFK5cuGaB5zKpFGq/view?usp=sharing](https://drive.google.com/file/d/1f7JsdfH2pEc4ZoF5yFK5cuGaB5zKpFGq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1f7JsdfH2pEc4ZoF5yFK5cuGaB5zKpFGq/view?usp=sharing]
+ (https://drive.google.com/file/d/1V4n2VIm3yemV0dLfFmGFtikV0FM6xpVv/view?usp=sharing)
 
 - ⚡ Fun fact **If you like CS:GO then we can play together !**
 
