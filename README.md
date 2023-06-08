@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ranjeeta13" alt="ranjeeta-pathak" /></a> </p>
 
-- 🌱 I’m currently learning **NLP and ML**
+- 🌱 I’m currently learning **Android Development using Kotlin and Java**
 
-- 👯 I’m looking to collaborate on **Flutter and Java projects**
+- 👯 I’m looking to collaborate on **Android and Web dev projects**
 
-- 💬 Ask me about **Java and Flutter**
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **ranjeetapathak13@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f7JsdfH2pEc4ZoF5yFK5cuGaB5zKpFGq/view?usp=sharing](https://drive.google.com/file/d/1V4n2VIm3yemV0dLfFmGFtikV0FM6xpVv/view?usp=sharing)
 
-- ⚡ Fun fact **If you like CS:GO then we can play together !**
+- ⚡ Fun fact **I am up for photoshoots 📷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
