@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/14vcwq_DgunBuiehIStgv1j6yuymqHXMV/view?usp=sharing](https://drive.google.com/file/d/14vcwq_DgunBuiehIStgv1j6yuymqHXMV/view?usp=sharing)
 
 
-- ⚡ Fun fact **I am up for photoshoots 📷**
+- ⚡ Fun fact **I play chess and sing in my leisure time  *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
