@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ranjeeta</h1>
-<h3 align="center">A passionate engineering student from India</h3>
+<h3 align="center">Analyst @BlackRock</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjeeta13&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeeta-pathak" /> </p>
 
 
-- 🌱 I’m currently learning **Android Development using Kotlin and Java**
-
-- 👯 I’m looking to collaborate on **Android and Web dev projects**
-
-- 💬 Ask me about **Android**
+-  I’m currently working as an Analyst at **BlackRock**
 
 - 📫 How to reach me **ranjeetapathak13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14vcwq_DgunBuiehIStgv1j6yuymqHXMV/view?usp=sharing](https://drive.google.com/file/d/14vcwq_DgunBuiehIStgv1j6yuymqHXMV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1akIBImJRZhYGkV4DS4bnFKI2H7xyI6SG/view?usp=sharing)
 
 
-- ⚡ Fun fact **I play chess and sing in my leisure time  *
+- ⚡ Fun fact **I play chess and sing in my leisure time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
