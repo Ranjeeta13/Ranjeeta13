@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ranjeetapathak13@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1akIBImJRZhYGkV4DS4bnFKI2H7xyI6SG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13nJvkpeqqsDQCcoSNjPaNUVLbuFLm-Vw/view?usp=sharing)
 
 
 - ⚡ Fun fact **I play chess and sing in my leisure time**
